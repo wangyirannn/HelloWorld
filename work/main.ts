@@ -29,7 +29,6 @@
  }
 
 
-//确实是函数决定金字塔多少行...但不是从键盘输入的...并不会从键盘上输入....
  function getLine(line : number) : number{
      return line;
  }
